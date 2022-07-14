@@ -1,7 +1,7 @@
-# Qwik In Action
+# Qwik 实战
 
 **中文** | [English](./README.md)
 
-## License
+## 开源协议
 
 [MIT](./LICENSE) License © 2022 - Present Watony Weng
